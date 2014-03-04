@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf8"?>
+<world name="AgentWorld2">
+ 
+	<!--Set gravity-->
+	<gravity x="0.0" y="-9.8" z="0.0"/>
+ 
+	<!--object of agent Man-nii-->
+	<instanciate class="Man-nii.xml">
+		<!--Agent Name-->
+		<set-attr-value name="name" value="man_000"/>
+ 
+		<!--C++ is the programming language-->
+		<set-attr-value name="language" value="c++"/>
+ 
+		<!--Controller file for the object-->
+		<set-attr-value name="implementation" value="./AgentController2.so"/>
+ 
+		<!--put the flag of dynamics to false-->
+		<set-attr-value name="dynamics" value="false"/>
+ 
+		<!--setting the initial position of agent (x,y,z)-->
+		<set-attr-value name="x" value="0.0"/>
+		<set-attr-value name="y" value="58.0"/>
+		<set-attr-value name="z" value="0.0"/>
+	</instanciate>
+</world>
