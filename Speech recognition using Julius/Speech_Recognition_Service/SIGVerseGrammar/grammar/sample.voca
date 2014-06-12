@@ -1,0 +1,11 @@
+% NS_B
+<s>        sil
+
+% NS_E
+</s>        sil
+
+% DIRECTION
+MOVEFORWARD   m uw v f ow r w er d
+BACK   b ae k
+TURNLEFT   t er n l eh f t
+TURNRIGHT   t er n r ay t

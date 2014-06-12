@@ -1,0 +1,6 @@
+0	[<s>]	sil
+1	[</s>]	sil
+2	[MOVEFORWARD]	m uw v f ow r w er d
+2	[BACK]	b ae k
+2	[TURNLEFT]	t er n l eh f t
+2	[TURNRIGHT]	t er n r ay t
