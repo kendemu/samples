@@ -1,4 +1,4 @@
-﻿Build started 11/19/2014 9:45:45 PM.
+﻿Build started 11/19/2014 10:02:15 PM.
      1>Project "C:\SIGVerse\src\SIGNiUserTracker_KinectV2_20141119_3\KinectV2\KinectV2.vcxproj" on node 2 (Rebuild target(s)).
      1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (KinectV2.vcxproj, MyService.vcxproj).  This can lead to incorrect clean and rebuild behavior.
      1>ClCompile:
@@ -19,4 +19,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:04.49
+Time Elapsed 00:00:05.02
